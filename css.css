@@ -1,0 +1,18 @@
+header{font-size: larger; margin-top: 1cm; font-family: Georgia, 'Times New Roman', Times, serif; font-style: oblique; color: burlywood;} 
+body{background-image: url(dessi/sun.jpg.jpg); background-repeat: repeat-y; background-size: 100%; width:2800px; height:200px;}
+     ul {list-style-type: none; margin-right: 1275px; padding: 0; overflow: hidden; background-color: grey; margin-top: 1cm;}
+        li {float: right;}
+        li p {display: inline-block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;}
+        li p:hover {background-color: #111;}
+        .container{margin-right: 1275px; align-content: center; }
+.banner{ align-content: center; width: 50%;}
+.banner img{border-style: groove; border-bottom-left-radius: 400%; border-bottom-right-radius: 400%; width: 70%; margin-left: 12cm;}
+.heading{position: absolute; bottom: -20%; width: 45%; padding: 100px; margin-left:-6%; display: block; margin-left: 7cm; margin-bottom: 5cm;
+        color: antiquewhite; color:}
+  h3{font-size: x-large; text-align: center; background-color: grey; margin-right: 1275px; padding: 0; margin-top: 2cm;}
+ .common{color: gray; border: dotted; margin-right: 1300px; padding: 0; display: inline-block;} 
+  .common p{float:right; width: 30%; margin-right: 16%;}
+figcaption{text-align: center; margin-right: 1275px; color: white; font-size: x-large;}
+.try{display: inline-block; float: right; margin-right: 1359px; background: gray; padding: 1cm;} 
+.address{margin-bottom: 5cm; font-size: larger; color: azure; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+               
